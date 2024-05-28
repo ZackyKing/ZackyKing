@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ZackyKing
 - 👀 I’m interested in Front End, Game Dev, and UI/UX dev
-- 🌱 I’m currently learning Front End
+- 🌱 I’m currently learning JavaScript, and more
 - 💞️ I’m looking to collaborate on Game Dev
-- 📫 How to reach me ? Email me
+- 📫 How to reach me @zackyargyatarigan at instagram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im King
 
